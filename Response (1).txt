@@ -1,0 +1,1539 @@
+﻿/* ********** Signed Request ********** */
+https://webservices.amazon.co.jp/!YW16LTEuMDtjb20uYW1hem9uLnBhYXBpNS52MS5Qcm9kdWN0QWR2ZXJ0aXNpbmdBUEl2MS5HZXRJdGVtczt7CiAgICAiSXRlbUlkcyI6IFsKICAgICAgICAiQjA5M1A1SEdSTCIKICAgIF0sCiAgICAiUmVzb3VyY2VzIjogWwogICAgICAgICJCcm93c2VOb2RlSW5mby5Ccm93c2VOb2RlcyIsCiAgICAgICAgIkJyb3dzZU5vZGVJbmZvLkJyb3dzZU5vZGVzLkFuY2VzdG9yIiwKICAgICAgICAiQnJvd3NlTm9kZUluZm8uQnJvd3NlTm9kZXMuU2FsZXNSYW5rIiwKICAgICAgICAiQnJvd3NlTm9kZUluZm8uV2Vic2l0ZVNhbGVzUmFuayIsCiAgICAgICAgIkN1c3RvbWVyUmV2aWV3cy5Db3VudCIsCiAgICAgICAgIkN1c3RvbWVyUmV2aWV3cy5TdGFyUmF0aW5nIiwKICAgICAgICAiSW1hZ2VzLlByaW1hcnkuU21hbGwiLAogICAgICAgICJJbWFnZXMuUHJpbWFyeS5NZWRpdW0iLAogICAgICAgICJJbWFnZXMuUHJpbWFyeS5MYXJnZSIsCiAgICAgICAgIkltYWdlcy5QcmltYXJ5LkhpZ2hSZXMiLAogICAgICAgICJJbWFnZXMuVmFyaWFudHMuU21hbGwiLAogICAgICAgICJJbWFnZXMuVmFyaWFudHMuTWVkaXVtIiwKICAgICAgICAiSW1hZ2VzLlZhcmlhbnRzLkxhcmdlIiwKICAgICAgICAiSW1hZ2VzLlZhcmlhbnRzLkhpZ2hSZXMiLAogICAgICAgICJJdGVtSW5mby5CeUxpbmVJbmZvIiwKICAgICAgICAiSXRlbUluZm8uQ29udGVudEluZm8iLAogICAgICAgICJJdGVtSW5mby5Db250ZW50UmF0aW5nIiwKICAgICAgICAiSXRlbUluZm8uQ2xhc3NpZmljYXRpb25zIiwKICAgICAgICAiSXRlbUluZm8uRXh0ZXJuYWxJZHMiLAogICAgICAgICJJdGVtSW5mby5GZWF0dXJlcyIsCiAgICAgICAgIkl0ZW1JbmZvLk1hbnVmYWN0dXJlSW5mbyIsCiAgICAgICAgIkl0ZW1JbmZvLlByb2R1Y3RJbmZvIiwKICAgICAgICAiSXRlbUluZm8uVGVjaG5pY2FsSW5mbyIsCiAgICAgICAgIkl0ZW1JbmZvLlRpdGxlIiwKICAgICAgICAiSXRlbUluZm8uVHJhZGVJbkluZm8iLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuQXZhaWxhYmlsaXR5Lk1heE9yZGVyUXVhbnRpdHkiLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuQXZhaWxhYmlsaXR5Lk1lc3NhZ2UiLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuQXZhaWxhYmlsaXR5Lk1pbk9yZGVyUXVhbnRpdHkiLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuQXZhaWxhYmlsaXR5LlR5cGUiLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuQ29uZGl0aW9uIiwKICAgICAgICAiT2ZmZXJzLkxpc3RpbmdzLkNvbmRpdGlvbi5Db25kaXRpb25Ob3RlIiwKICAgICAgICAiT2ZmZXJzLkxpc3RpbmdzLkNvbmRpdGlvbi5TdWJDb25kaXRpb24iLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuRGVsaXZlcnlJbmZvLklzQW1hem9uRnVsZmlsbGVkIiwKICAgICAgICAiT2ZmZXJzLkxpc3RpbmdzLkRlbGl2ZXJ5SW5mby5Jc0ZyZWVTaGlwcGluZ0VsaWdpYmxlIiwKICAgICAgICAiT2ZmZXJzLkxpc3RpbmdzLkRlbGl2ZXJ5SW5mby5Jc1ByaW1lRWxpZ2libGUiLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuRGVsaXZlcnlJbmZvLlNoaXBwaW5nQ2hhcmdlcyIsCiAgICAgICAgIk9mZmVycy5MaXN0aW5ncy5Jc0J1eUJveFdpbm5lciIsCiAgICAgICAgIk9mZmVycy5MaXN0aW5ncy5Mb3lhbHR5UG9pbnRzLlBvaW50cyIsCiAgICAgICAgIk9mZmVycy5MaXN0aW5ncy5NZXJjaGFudEluZm8iLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuUHJpY2UiLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuUHJvZ3JhbUVsaWdpYmlsaXR5LklzUHJpbWVFeGNsdXNpdmUiLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuUHJvZ3JhbUVsaWdpYmlsaXR5LklzUHJpbWVQYW50cnkiLAogICAgICAgICJPZmZlcnMuTGlzdGluZ3MuUHJvbW90aW9ucyIsCiAgICAgICAgIk9mZmVycy5MaXN0aW5ncy5TYXZpbmdCYXNpcyIsCiAgICAgICAgIk9mZmVycy5TdW1tYXJpZXMuSGlnaGVzdFByaWNlIiwKICAgICAgICAiT2ZmZXJzLlN1bW1hcmllcy5Mb3dlc3RQcmljZSIsCiAgICAgICAgIk9mZmVycy5TdW1tYXJpZXMuT2ZmZXJDb3VudCIsCiAgICAgICAgIlBhcmVudEFTSU4iLAogICAgICAgICJSZW50YWxPZmZlcnMuTGlzdGluZ3MuQXZhaWxhYmlsaXR5Lk1heE9yZGVyUXVhbnRpdHkiLAogICAgICAgICJSZW50YWxPZmZlcnMuTGlzdGluZ3MuQXZhaWxhYmlsaXR5Lk1lc3NhZ2UiLAogICAgICAgICJSZW50YWxPZmZlcnMuTGlzdGluZ3MuQXZhaWxhYmlsaXR5Lk1pbk9yZGVyUXVhbnRpdHkiLAogICAgICAgICJSZW50YWxPZmZlcnMuTGlzdGluZ3MuQXZhaWxhYmlsaXR5LlR5cGUiLAogICAgICAgICJSZW50YWxPZmZlcnMuTGlzdGluZ3MuQmFzZVByaWNlIiwKICAgICAgICAiUmVudGFsT2ZmZXJzLkxpc3RpbmdzLkNvbmRpdGlvbiIsCiAgICAgICAgIlJlbnRhbE9mZmVycy5MaXN0aW5ncy5Db25kaXRpb24uQ29uZGl0aW9uTm90ZSIsCiAgICAgICAgIlJlbnRhbE9mZmVycy5MaXN0aW5ncy5Db25kaXRpb24uU3ViQ29uZGl0aW9uIiwKICAgICAgICAiUmVudGFsT2ZmZXJzLkxpc3RpbmdzLkRlbGl2ZXJ5SW5mby5Jc0FtYXpvbkZ1bGZpbGxlZCIsCiAgICAgICAgIlJlbnRhbE9mZmVycy5MaXN0aW5ncy5EZWxpdmVyeUluZm8uSXNGcmVlU2hpcHBpbmdFbGlnaWJsZSIsCiAgICAgICAgIlJlbnRhbE9mZmVycy5MaXN0aW5ncy5EZWxpdmVyeUluZm8uSXNQcmltZUVsaWdpYmxlIiwKICAgICAgICAiUmVudGFsT2ZmZXJzLkxpc3RpbmdzLkRlbGl2ZXJ5SW5mby5TaGlwcGluZ0NoYXJnZXMiLAogICAgICAgICJSZW50YWxPZmZlcnMuTGlzdGluZ3MuTWVyY2hhbnRJbmZvIgogICAgXSwKICAgICJQYXJ0bmVyVGFnIjogImNyZWVrLTIyIiwKICAgICJQYXJ0bmVyVHlwZSI6ICJBc3NvY2lhdGVzIiwKICAgICJNYXJrZXRwbGFjZSI6ICJ3d3cuYW1hem9uLmNvLmpwIgp9
+
+/* ********** Payload ********** */
+{
+ "ItemIds": [
+  "B093P5HGRL"
+ ],
+ "Resources": [
+  "BrowseNodeInfo.BrowseNodes",
+  "BrowseNodeInfo.BrowseNodes.Ancestor",
+  "BrowseNodeInfo.BrowseNodes.SalesRank",
+  "BrowseNodeInfo.WebsiteSalesRank",
+  "CustomerReviews.Count",
+  "CustomerReviews.StarRating",
+  "Images.Primary.Small",
+  "Images.Primary.Medium",
+  "Images.Primary.Large",
+  "Images.Primary.HighRes",
+  "Images.Variants.Small",
+  "Images.Variants.Medium",
+  "Images.Variants.Large",
+  "Images.Variants.HighRes",
+  "ItemInfo.ByLineInfo",
+  "ItemInfo.ContentInfo",
+  "ItemInfo.ContentRating",
+  "ItemInfo.Classifications",
+  "ItemInfo.ExternalIds",
+  "ItemInfo.Features",
+  "ItemInfo.ManufactureInfo",
+  "ItemInfo.ProductInfo",
+  "ItemInfo.TechnicalInfo",
+  "ItemInfo.Title",
+  "ItemInfo.TradeInInfo",
+  "Offers.Listings.Availability.MaxOrderQuantity",
+  "Offers.Listings.Availability.Message",
+  "Offers.Listings.Availability.MinOrderQuantity",
+  "Offers.Listings.Availability.Type",
+  "Offers.Listings.Condition",
+  "Offers.Listings.Condition.ConditionNote",
+  "Offers.Listings.Condition.SubCondition",
+  "Offers.Listings.DeliveryInfo.IsAmazonFulfilled",
+  "Offers.Listings.DeliveryInfo.IsFreeShippingEligible",
+  "Offers.Listings.DeliveryInfo.IsPrimeEligible",
+  "Offers.Listings.DeliveryInfo.ShippingCharges",
+  "Offers.Listings.IsBuyBoxWinner",
+  "Offers.Listings.LoyaltyPoints.Points",
+  "Offers.Listings.MerchantInfo",
+  "Offers.Listings.Price",
+  "Offers.Listings.ProgramEligibility.IsPrimeExclusive",
+  "Offers.Listings.ProgramEligibility.IsPrimePantry",
+  "Offers.Listings.Promotions",
+  "Offers.Listings.SavingBasis",
+  "Offers.Summaries.HighestPrice",
+  "Offers.Summaries.LowestPrice",
+  "Offers.Summaries.OfferCount",
+  "ParentASIN",
+  "RentalOffers.Listings.Availability.MaxOrderQuantity",
+  "RentalOffers.Listings.Availability.Message",
+  "RentalOffers.Listings.Availability.MinOrderQuantity",
+  "RentalOffers.Listings.Availability.Type",
+  "RentalOffers.Listings.BasePrice",
+  "RentalOffers.Listings.Condition",
+  "RentalOffers.Listings.Condition.ConditionNote",
+  "RentalOffers.Listings.Condition.SubCondition",
+  "RentalOffers.Listings.DeliveryInfo.IsAmazonFulfilled",
+  "RentalOffers.Listings.DeliveryInfo.IsFreeShippingEligible",
+  "RentalOffers.Listings.DeliveryInfo.IsPrimeEligible",
+  "RentalOffers.Listings.DeliveryInfo.ShippingCharges",
+  "RentalOffers.Listings.MerchantInfo"
+ ],
+ "PartnerTag": "creek-22",
+ "PartnerType": "Associates",
+ "Marketplace": "www.amazon.co.jp",
+ "Operation": "GetItems"
+}
+
+/* ********** Response ********** */
+{
+ "ItemsResult": {
+  "Items": [
+   {
+    "ASIN": "B093P5HGRL",
+    "BrowseNodeInfo": {
+     "BrowseNodes": [
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "ContextFreeName": "本",
+         "DisplayName": "本",
+         "Id": "465392"
+        },
+        "ContextFreeName": "本",
+        "DisplayName": "ジャンル別",
+        "Id": "465610"
+       },
+       "ContextFreeName": "アダルト本",
+       "DisplayName": "アダルト",
+       "Id": "10667101",
+       "IsRoot": false,
+       "SalesRank": 996
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "Ancestor": {
+             "Ancestor": {
+              "ContextFreeName": "本",
+              "DisplayName": "本",
+              "Id": "465392"
+             },
+             "ContextFreeName": "Self Service",
+             "DisplayName": "Self Service",
+             "Id": "2141347051"
+            },
+            "ContextFreeName": "Special Features Stores",
+            "DisplayName": "Special Features Stores",
+            "Id": "2141399051"
+           },
+           "ContextFreeName": "2021",
+           "DisplayName": "2021",
+           "Id": "8500260051"
+          },
+          "ContextFreeName": "06",
+          "DisplayName": "06",
+          "Id": "10313495051"
+         },
+         "ContextFreeName": "08",
+         "DisplayName": "08",
+         "Id": "10318454051"
+        },
+        "ContextFreeName": "1748",
+        "DisplayName": "1748",
+        "Id": "10319046051"
+       },
+       "ContextFreeName": "HOTW_Test_アダルト",
+       "DisplayName": "HOTW_Test_アダルト",
+       "Id": "4749815051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "ContextFreeName": "Kindleストア",
+           "DisplayName": "Kindleストア",
+           "Id": "2250738051"
+          },
+          "ContextFreeName": "Kindleストア",
+          "DisplayName": "カテゴリー別",
+          "Id": "2250739051"
+         },
+         "ContextFreeName": "Kindle本",
+         "DisplayName": "Kindle本",
+         "Id": "2275256051"
+        },
+        "ContextFreeName": "アダルト",
+        "DisplayName": "アダルト",
+        "Id": "2291476051"
+       },
+       "ContextFreeName": "アダルトマンガ",
+       "DisplayName": "マンガ",
+       "Id": "2291478051",
+       "IsRoot": false,
+       "SalesRank": 363
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Specialty Stores",
+           "DisplayName": "Specialty Stores",
+           "Id": "2250740051"
+          },
+          "ContextFreeName": "Custom Stores",
+          "DisplayName": "Custom Stores",
+          "Id": "2275261051"
+         },
+         "ContextFreeName": "Kindle Unlimited:読み放題 ジャンル",
+         "DisplayName": "Kindle Unlimited:読み放題 ジャンル",
+         "Id": "3197885051"
+        },
+        "ContextFreeName": "アダルト",
+        "DisplayName": "アダルト",
+        "Id": "4469668051"
+       },
+       "ContextFreeName": "アダルトコミック",
+       "DisplayName": "コミック",
+       "Id": "4469671051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "ContextFreeName": "Kindleストア",
+         "DisplayName": "Kindleストア",
+         "Id": "2250738051"
+        },
+        "ContextFreeName": "Specialty Stores",
+        "DisplayName": "Specialty Stores",
+        "Id": "2250740051"
+       },
+       "ContextFreeName": "Regular Stores",
+       "DisplayName": "Regular Stores",
+       "Id": "2275262051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "ContextFreeName": "Kindleストア",
+         "DisplayName": "Kindleストア",
+         "Id": "2250738051"
+        },
+        "ContextFreeName": "Specialty Stores",
+        "DisplayName": "Specialty Stores",
+        "Id": "2250740051"
+       },
+       "ContextFreeName": "Kindle本",
+       "DisplayName": "Kindle本",
+       "Id": "8185276051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "Ancestor": {
+             "Ancestor": {
+              "ContextFreeName": "Kindleストア",
+              "DisplayName": "Kindleストア",
+              "Id": "2250738051"
+             },
+             "ContextFreeName": "Self Service",
+             "DisplayName": "Self Service",
+             "Id": "2275265051"
+            },
+            "ContextFreeName": "Special Features Stores",
+            "DisplayName": "Special Features Stores",
+            "Id": "2275277051"
+           },
+           "ContextFreeName": "2020",
+           "DisplayName": "2020",
+           "Id": "8172192051"
+          },
+          "ContextFreeName": "09",
+          "DisplayName": "09",
+          "Id": "8419007051"
+         },
+         "ContextFreeName": "30",
+         "DisplayName": "30",
+         "Id": "8430600051"
+        },
+        "ContextFreeName": "0825",
+        "DisplayName": "0825",
+        "Id": "8430601051"
+       },
+       "ContextFreeName": "無料アダルトマンガ",
+       "DisplayName": "無料アダルトマンガ",
+       "Id": "8430602051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "Ancestor": {
+             "Ancestor": {
+              "Ancestor": {
+               "ContextFreeName": "Kindleストア",
+               "DisplayName": "Kindleストア",
+               "Id": "2250738051"
+              },
+              "ContextFreeName": "Self Service",
+              "DisplayName": "Self Service",
+              "Id": "2275265051"
+             },
+             "ContextFreeName": "Special Features Stores",
+             "DisplayName": "Special Features Stores",
+             "Id": "2275277051"
+            },
+            "ContextFreeName": "2021",
+            "DisplayName": "2021",
+            "Id": "8499558051"
+           },
+           "ContextFreeName": "05",
+           "DisplayName": "05",
+           "Id": "10297325051"
+          },
+          "ContextFreeName": "26",
+          "DisplayName": "26",
+          "Id": "10306347051"
+         },
+         "ContextFreeName": "0525",
+         "DisplayName": "0525",
+         "Id": "10306348051"
+        },
+        "ContextFreeName": "30%OFFクーポン　プレゼントキャンペーン（エントリーページ）",
+        "DisplayName": "30%OFFクーポン　プレゼントキャンペーン（エントリーページ）",
+        "Id": "10306349051"
+       },
+       "ContextFreeName": "30%OFFクーポン",
+       "DisplayName": "30%OFFクーポン",
+       "Id": "10306350051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_038",
+         "DisplayName": "partition_038",
+         "Id": "10331432051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10331433051"
+       },
+       "ContextFreeName": "Kindle本まとめ買いキャンペーン 8冊購入で10%ポイント還元",
+       "DisplayName": "Kindle本まとめ買いキャンペーン 8冊購入で10%ポイント還元",
+       "Id": "18811417051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_038",
+         "DisplayName": "partition_038",
+         "Id": "10331432051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10331433051"
+       },
+       "ContextFreeName": "JSB",
+       "DisplayName": "JSB",
+       "Id": "20929229051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_020",
+         "DisplayName": "partition_020",
+         "Id": "10338308051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10338309051"
+       },
+       "ContextFreeName": "【5冊購入で10%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "DisplayName": "【5冊購入で10%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "Id": "10483747051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_098",
+         "DisplayName": "partition_098",
+         "Id": "10342018051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10342019051"
+       },
+       "ContextFreeName": "【毎週開催】Kindle本5冊購入で10%ポイント還元",
+       "DisplayName": "【毎週開催】Kindle本5冊購入で10%ポイント還元",
+       "Id": "10577886051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_098",
+         "DisplayName": "partition_098",
+         "Id": "10342018051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10342019051"
+       },
+       "ContextFreeName": "【毎週開催】Kindle本5冊購入で10%ポイント還元　第２週",
+       "DisplayName": "【毎週開催】Kindle本5冊購入で10%ポイント還元　第２週",
+       "Id": "10577898051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_098",
+         "DisplayName": "partition_098",
+         "Id": "10342018051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10342019051"
+       },
+       "ContextFreeName": "【毎週開催】Kindle本5冊購入で10%ポイント還元　第3週",
+       "DisplayName": "【毎週開催】Kindle本5冊購入で10%ポイント還元　第3週",
+       "Id": "10577899051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_098",
+         "DisplayName": "partition_098",
+         "Id": "10342018051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10342019051"
+       },
+       "ContextFreeName": "【毎週開催】Kindle本5冊購入で10%ポイント還元　第4週",
+       "DisplayName": "【毎週開催】Kindle本5冊購入で10%ポイント還元　第4週",
+       "Id": "10577900051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_098",
+         "DisplayName": "partition_098",
+         "Id": "10342018051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10342019051"
+       },
+       "ContextFreeName": "【毎週開催】Kindle本5冊購入で10%ポイント還元　 第6週",
+       "DisplayName": "【毎週開催】Kindle本5冊購入で10%ポイント還元　 第6週",
+       "Id": "10577901051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_090",
+         "DisplayName": "partition_090",
+         "Id": "10346898051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10346899051"
+       },
+       "ContextFreeName": "5冊購入で10%OFF Kindle本キャンペーン",
+       "DisplayName": "5冊購入で10%OFF Kindle本キャンペーン",
+       "Id": "11860663051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_067",
+         "DisplayName": "partition_067",
+         "Id": "10349388051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10349389051"
+       },
+       "ContextFreeName": "Kindle本まとめ買いキャンペーン",
+       "DisplayName": "Kindle本まとめ買いキャンペーン",
+       "Id": "18413030051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_094",
+         "DisplayName": "partition_094",
+         "Id": "10349722051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10349723051"
+       },
+       "ContextFreeName": "Kindle本ポイントキャンペーン(期間限定ポイント)",
+       "DisplayName": "Kindle本ポイントキャンペーン(期間限定ポイント)",
+       "Id": "14238181051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_094",
+         "DisplayName": "partition_094",
+         "Id": "10349722051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10349723051"
+       },
+       "ContextFreeName": "Kindle本ポイントキャンペーン",
+       "DisplayName": "Kindle本ポイントキャンペーン",
+       "Id": "14238182051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_107",
+         "DisplayName": "partition_107",
+         "Id": "10349747051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10349748051"
+       },
+       "ContextFreeName": "CompMatch",
+       "DisplayName": "CompMatch",
+       "Id": "14238398051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_026",
+         "DisplayName": "partition_026",
+         "Id": "10352036051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10352037051"
+       },
+       "ContextFreeName": "5冊購入で10%ポイント還元 Kindle本まとめ買いキャンペーン",
+       "DisplayName": "5冊購入で10%ポイント還元 Kindle本まとめ買いキャンペーン",
+       "Id": "10585539051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_026",
+         "DisplayName": "partition_026",
+         "Id": "10352036051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10352037051"
+       },
+       "ContextFreeName": "【5冊購入で10%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "DisplayName": "【5冊購入で10%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "Id": "11964742051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_013",
+         "DisplayName": "partition_013",
+         "Id": "10355520051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10355521051"
+       },
+       "ContextFreeName": "5冊購入で15%ポイント還元 プライムデーKindle本まとめ買いキャンペーン",
+       "DisplayName": "5冊購入で15%ポイント還元 プライムデーKindle本まとめ買いキャンペーン",
+       "Id": "10554617051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_033",
+         "DisplayName": "partition_033",
+         "Id": "10355548051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10355549051"
+       },
+       "ContextFreeName": "【5冊購入で10%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "DisplayName": "【5冊購入で10%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "Id": "10498470051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "Ancestor": {
+             "ContextFreeName": "Kindleストア",
+             "DisplayName": "Kindleストア",
+             "Id": "2250738051"
+            },
+            "ContextFreeName": "Self Service",
+            "DisplayName": "Self Service",
+            "Id": "2275265051"
+           },
+           "ContextFreeName": "Special Features Stores",
+           "DisplayName": "Special Features Stores",
+           "Id": "2275277051"
+          },
+          "ContextFreeName": "partition_058",
+          "DisplayName": "partition_058",
+          "Id": "10355576051"
+         },
+         "ContextFreeName": "partition_000",
+         "DisplayName": "partition_000",
+         "Id": "10355577051"
+        },
+        "ContextFreeName": "Kindle本 はじめての購入に使える70%OFFクーポン（エントリーページ）",
+        "DisplayName": "Kindle本 はじめての購入に使える70%OFFクーポン（エントリーページ）",
+        "Id": "7950537051"
+       },
+       "ContextFreeName": "Kindle本 はじめての購入に使える70%OFFクーポン",
+       "DisplayName": "Kindle本 はじめての購入に使える70%OFFクーポン",
+       "Id": "10300439051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_039",
+         "DisplayName": "partition_039",
+         "Id": "10356975051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10356976051"
+       },
+       "ContextFreeName": "Kindle本まとめ買いキャンペーン",
+       "DisplayName": "Kindle本まとめ買いキャンペーン",
+       "Id": "21483592051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_009",
+         "DisplayName": "partition_009",
+         "Id": "10358431051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10358432051"
+       },
+       "ContextFreeName": "マンガタイトル",
+       "DisplayName": "マンガタイトル",
+       "Id": "16111337051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_019",
+         "DisplayName": "partition_019",
+         "Id": "10384921051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10384922051"
+       },
+       "ContextFreeName": "Kindle本 8冊購入で10%ポイント還元",
+       "DisplayName": "Kindle本 8冊購入で10%ポイント還元",
+       "Id": "18331553051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_029",
+         "DisplayName": "partition_029",
+         "Id": "10384930051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10384931051"
+       },
+       "ContextFreeName": "Kindleマンガ 10冊購入で15%ポイント還元",
+       "DisplayName": "Kindleマンガ 10冊購入で15%ポイント還元",
+       "Id": "14480075051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_015",
+         "DisplayName": "partition_015",
+         "Id": "10397577051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10397578051"
+       },
+       "ContextFreeName": "【5冊購入10%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "DisplayName": "【5冊購入10%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "Id": "10510119051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_086",
+         "DisplayName": "partition_086",
+         "Id": "10405793051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10405794051"
+       },
+       "ContextFreeName": "Kindleマンガをチェック",
+       "DisplayName": "Kindleマンガをチェック",
+       "Id": "16284721051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_022",
+         "DisplayName": "partition_022",
+         "Id": "10408344051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10408345051"
+       },
+       "ContextFreeName": "Kindleマンガ 10冊購入で10%ポイント還元",
+       "DisplayName": "Kindleマンガ 10冊購入で10%ポイント還元",
+       "Id": "18195117051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_022",
+         "DisplayName": "partition_022",
+         "Id": "10408344051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10408345051"
+       },
+       "ContextFreeName": "Kindle本まとめ買いキャンペーン",
+       "DisplayName": "Kindle本まとめ買いキャンペーン",
+       "Id": "19718094051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_028",
+         "DisplayName": "partition_028",
+         "Id": "10413740051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10413741051"
+       },
+       "ContextFreeName": "Kindle本GWキャンペーン 8冊購入で10%ポイント還元",
+       "DisplayName": "Kindle本GWキャンペーン 8冊購入で10%ポイント還元",
+       "Id": "19411104051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_057",
+         "DisplayName": "partition_057",
+         "Id": "10419304051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10419305051"
+       },
+       "ContextFreeName": "【5冊購入で10%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "DisplayName": "【5冊購入で10%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "Id": "14073946051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_071",
+         "DisplayName": "partition_071",
+         "Id": "10458370051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10458371051"
+       },
+       "ContextFreeName": "Kindle本まとめ買いキャンペーン",
+       "DisplayName": "Kindle本まとめ買いキャンペーン",
+       "Id": "10458373051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_018",
+         "DisplayName": "partition_018",
+         "Id": "10464473051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10464474051"
+       },
+       "ContextFreeName": "【最大50％OFF】Kindle本ゴールデンウイークセール",
+       "DisplayName": "【最大50％OFF】Kindle本ゴールデンウイークセール",
+       "Id": "18502203051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_017",
+         "DisplayName": "partition_017",
+         "Id": "10491673051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10491674051"
+       },
+       "ContextFreeName": "Kindle本まとめ買いキャンペーン 8冊購入で10%ポイント還元",
+       "DisplayName": "Kindle本まとめ買いキャンペーン 8冊購入で10%ポイント還元",
+       "Id": "21343160051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_006",
+         "DisplayName": "partition_006",
+         "Id": "10498528051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10498529051"
+       },
+       "ContextFreeName": "【5冊購入で15%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "DisplayName": "【5冊購入で15%ポイント還元】Kindle本まとめ買いキャンペーン",
+       "Id": "10498530051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_000",
+         "DisplayName": "partition_000",
+         "Id": "10501146051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10501147051"
+       },
+       "ContextFreeName": "[終了しました]5冊購入で10%ポイント還元 Kindle本まとめ買いキャンペーン",
+       "DisplayName": "[終了しました]5冊購入で10%ポイント還元 Kindle本まとめ買いキャンペーン",
+       "Id": "10539791051",
+       "IsRoot": false
+      },
+      {
+       "Ancestor": {
+        "Ancestor": {
+         "Ancestor": {
+          "Ancestor": {
+           "Ancestor": {
+            "ContextFreeName": "Kindleストア",
+            "DisplayName": "Kindleストア",
+            "Id": "2250738051"
+           },
+           "ContextFreeName": "Self Service",
+           "DisplayName": "Self Service",
+           "Id": "2275265051"
+          },
+          "ContextFreeName": "Special Features Stores",
+          "DisplayName": "Special Features Stores",
+          "Id": "2275277051"
+         },
+         "ContextFreeName": "partition_097",
+         "DisplayName": "partition_097",
+         "Id": "10502431051"
+        },
+        "ContextFreeName": "partition_000",
+        "DisplayName": "partition_000",
+        "Id": "10502432051"
+       },
+       "ContextFreeName": "Kindle本まとめ買いキャンペーン",
+       "DisplayName": "Kindle本まとめ買いキャンペーン",
+       "Id": "15687844051",
+       "IsRoot": false
+      }
+     ]
+    },
+    "DetailPageURL": "https://www.amazon.co.jp/dp/B093P5HGRL?tag=creek-22&linkCode=ogi&th=1&psc=1",
+    "Images": {
+     "Primary": {
+      "Large": {
+       "Height": 500,
+       "URL": "https://m.media-amazon.com/images/I/511AHTKI5lL._SL500_.jpg",
+       "Width": 354
+      },
+      "Medium": {
+       "Height": 160,
+       "URL": "https://m.media-amazon.com/images/I/511AHTKI5lL._SL160_.jpg",
+       "Width": 113
+      },
+      "Small": {
+       "Height": 75,
+       "URL": "https://m.media-amazon.com/images/I/511AHTKI5lL._SL75_.jpg",
+       "Width": 53
+      }
+     }
+    },
+    "ItemInfo": {
+     "ByLineInfo": {
+      "Contributors": [
+       {
+        "Locale": "ja_JP",
+        "Name": "かるきや",
+        "Role": "著",
+        "RoleType": "author"
+       }
+      ],
+      "Manufacturer": {
+       "DisplayValue": "電書バト",
+       "Label": "Manufacturer",
+       "Locale": "ja_JP"
+      }
+     },
+     "Classifications": {
+      "Binding": {
+       "DisplayValue": "Kindle版",
+       "Label": "Binding",
+       "Locale": "ja_JP"
+      },
+      "ProductGroup": {
+       "DisplayValue": "Digital Ebook Purchas",
+       "Label": "ProductGroup",
+       "Locale": "ja_JP"
+      }
+     },
+     "ContentInfo": {
+      "Languages": {
+       "DisplayValues": [
+        {
+         "DisplayValue": "日本語",
+         "Type": "発行"
+        }
+       ],
+       "Label": "Language",
+       "Locale": "ja_JP"
+      },
+      "PublicationDate": {
+       "DisplayValue": "2021-11-01T00:00:00.000Z",
+       "Label": "PublicationDate",
+       "Locale": "en_US"
+      }
+     },
+     "ProductInfo": {
+      "IsAdultProduct": {
+       "DisplayValue": true,
+       "Label": "IsAdultProduct",
+       "Locale": "en_US"
+      },
+      "ReleaseDate": {
+       "DisplayValue": "2021-11-01T00:00:00.000Z",
+       "Label": "ReleaseDate",
+       "Locale": "en_US"
+      }
+     },
+     "TechnicalInfo": {
+      "Formats": {
+       "DisplayValues": [
+        "Kindle本"
+       ],
+       "Label": "Format",
+       "Locale": "ja_JP"
+      }
+     },
+     "Title": {
+      "DisplayValue": "友母玩具 母が同級生の玩具に堕ちるまで 1巻",
+      "Label": "Title",
+      "Locale": "ja_JP"
+     }
+    },
+    "Offers": {
+     "Listings": [
+      {
+       "Availability": {
+        "Message": "今すぐダウンロードできます。",
+        "MinOrderQuantity": 1,
+        "Type": "Now"
+       },
+       "Condition": {
+        "SubCondition": {
+         "Value": "New"
+        },
+        "Value": "New"
+       },
+       "DeliveryInfo": {
+        "IsAmazonFulfilled": false,
+        "IsFreeShippingEligible": false,
+        "IsPrimeEligible": false
+       },
+       "Id": "4LPMSFIg1jiuu%2FS08lN5OrcWrldm3FdjU%2FEZrsq1qVWQrve5Nxibh8T1ypxJNBiCIf0K9AtTrl6CWvVgP3BG33etdM5762jCoTJ28uWrkuD9RGjdWXLqA2HLeSphtp7iaJN1erXsM0x0YRsRngPuLKF%2F%2BCIMuck9%2Bx7sBqa9Aijzbjqh1mTysw%3D%3D",
+       "IsBuyBoxWinner": true,
+       "LoyaltyPoints": {
+        "Points": 3
+       },
+       "MerchantInfo": {
+        "DefaultShippingCountry": "JP",
+        "FeedbackCount": 0,
+        "FeedbackRating": 0,
+        "Id": "A1UGQWG30YHAAG",
+        "Name": "Amazon Services International,  Inc."
+       },
+       "Price": {
+        "Amount": 327,
+        "Currency": "JPY",
+        "DisplayAmount": "￥327"
+       },
+       "ProgramEligibility": {
+        "IsPrimeExclusive": false,
+        "IsPrimePantry": false
+       },
+       "ViolatesMAP": false
+      }
+     ],
+     "Summaries": [
+      {
+       "Condition": {
+        "Value": "New"
+       },
+       "HighestPrice": {
+        "Amount": 327,
+        "Currency": "JPY",
+        "DisplayAmount": "￥327"
+       },
+       "LowestPrice": {
+        "Amount": 327,
+        "Currency": "JPY",
+        "DisplayAmount": "￥327"
+       },
+       "OfferCount": 1
+      }
+     ]
+    }
+   }
+  ]
+ }
+}
